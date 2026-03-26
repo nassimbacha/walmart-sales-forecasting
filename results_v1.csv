@@ -1,0 +1,6 @@
+Variante,Fold,WMAE,MAE,RMSE,R2
+V1 - Brut + Target Encoding,Fold 1,4288.19,2878.03,9838.01,0.8348
+V1 - Brut + Target Encoding,Fold 2,1524.58,1524.58,3310.73,0.9765
+V1 - Brut + Target Encoding,Fold 3,2567.92,1757.28,6551.46,0.9213
+V1 - Brut + Target Encoding,Fold 4,1893.07,1733.04,3689.73,0.9748
+V1 - Brut + Target Encoding,Fold 5,1364.31,1364.31,2821.77,0.9836

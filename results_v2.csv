@@ -1,0 +1,6 @@
+Variante,Fold,WMAE,MAE,RMSE,R2
+V2 — Log + sans négatifs + Target Encoding,Fold 1,4312.87,2843.38,9880.47,0.8333
+V2 — Log + sans négatifs + Target Encoding,Fold 2,1490.81,1490.81,3244.21,0.9774
+V2 — Log + sans négatifs + Target Encoding,Fold 3,2444.89,1703.44,6554.25,0.9215
+V2 — Log + sans négatifs + Target Encoding,Fold 4,1844.91,1662.65,3659.89,0.9753
+V2 — Log + sans négatifs + Target Encoding,Fold 5,1317.63,1317.63,2778.4,0.9841

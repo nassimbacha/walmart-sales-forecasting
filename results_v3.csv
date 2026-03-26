@@ -1,0 +1,6 @@
+Variante,Fold,WMAE,MAE,RMSE,R2
+V3 — Imputation 0 + flag + Target Encoding,Fold 1,4286.2,2878.44,9833.33,0.835
+V3 — Imputation 0 + flag + Target Encoding,Fold 2,1526.71,1526.71,3319.87,0.9763
+V3 — Imputation 0 + flag + Target Encoding,Fold 3,2566.05,1756.71,6573.29,0.9208
+V3 — Imputation 0 + flag + Target Encoding,Fold 4,1893.22,1733.52,3685.68,0.9749
+V3 — Imputation 0 + flag + Target Encoding,Fold 5,1362.92,1362.92,2815.15,0.9837
