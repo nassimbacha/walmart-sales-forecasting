@@ -1,0 +1,2 @@
+Modele,WMAE,MAE,RMSE,R2,Validation
+XGBoost + sin/cos,1590.9,1521.37,3505.13,0.9749,Cutoff 2012-01-01

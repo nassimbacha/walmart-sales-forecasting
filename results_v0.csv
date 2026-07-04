@@ -1,0 +1,6 @@
+Variante,Fold,WMAE,MAE,RMSE,R2
+V0 - Random Forest sans FE,1,5630.91,3707.98,11403.45,0.7768
+V0 - Random Forest sans FE,2,5368.55,5368.55,13463.75,0.6106
+V0 - Random Forest sans FE,3,3819.6,3022.02,8298.69,0.8714
+V0 - Random Forest sans FE,4,4189.4,3191.76,7725.03,0.891
+V0 - Random Forest sans FE,5,2238.6,2238.6,4850.9,0.9514

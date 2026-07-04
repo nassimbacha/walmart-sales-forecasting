@@ -1,6 +1,6 @@
 Variante,Fold,WMAE,MAE,RMSE,R2
-V2 — Log + sans négatifs + Target Encoding,Fold 1,4312.87,2843.38,9880.47,0.8333
-V2 — Log + sans négatifs + Target Encoding,Fold 2,1490.81,1490.81,3244.21,0.9774
-V2 — Log + sans négatifs + Target Encoding,Fold 3,2444.89,1703.44,6554.25,0.9215
-V2 — Log + sans négatifs + Target Encoding,Fold 4,1844.91,1662.65,3659.89,0.9753
-V2 — Log + sans négatifs + Target Encoding,Fold 5,1317.63,1317.63,2778.4,0.9841
+V2 - Random Forest,Fold 1,4326.58,2851.08,9911.46,0.8327
+V2 - Random Forest,Fold 2,1493.66,1493.66,3244.05,0.9775
+V2 - Random Forest,Fold 3,2456.38,1705.13,6541.07,0.9217
+V2 - Random Forest,Fold 4,1847.77,1662.62,3664.85,0.9752
+V2 - Random Forest,Fold 5,1318.72,1318.72,2777.32,0.9841
